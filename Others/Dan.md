@@ -1,1 +1,1 @@
-* 15 Sep 2016 - "Feel free to go ahead and play with boxes."
+* Sep 15 2016 - "Feel free to go play with boxes yourself."
