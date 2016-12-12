@@ -1,4 +1,7 @@
 * Sep 15 2016 - "Feel free to go play with boxes yourself."
+* Oct 3 2016 - "The engineer’s job is done not when there’s nothing left to write, but when there’s nothing left to take away."
+* Oct 3 2016 - "I need to do a query, and I’ll make it purple, because purple is a secret color."
 * Oct 5 2016 - *(long, desolate sigh)* "Macs are so weird."
 * Oct 14 2016 - "This is what they call 'flying by the seat of your pants.'" *(Googles)* "Apparently I've googled this before."
 * Oct 21 2016 - "The internet is fragile and held together by duct tap, glue, and bandages... it sucks and just barely works."
+* Nov 18 2016 - "So we do a search for date in javascript, and hope we don’t get an okcupid result."
